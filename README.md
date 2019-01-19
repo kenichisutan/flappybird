@@ -1,2 +1,2 @@
 #Flappy Bird
-This is a simple flappy bird type game used for learning Canvas in HTML 5.
+This is a simple flappy bird game made with Canvas in HTML 5.
